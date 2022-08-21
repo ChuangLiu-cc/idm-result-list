@@ -1,0 +1,31 @@
+{
+  "name": "idm-result-list",
+  "version": "1.0.8",
+  "description": "result-list lib for hrs project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuangLiu-cc/idm-result-list.git"
+  },
+  "keywords": [
+    "result",
+    "list"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuangLiu-cc/idm-result-list/issues"
+  },
+  "homepage": "https://github.com/ChuangLiu-cc/idm-result-list#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
